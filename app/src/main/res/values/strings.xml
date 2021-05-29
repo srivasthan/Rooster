@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RoosterPlus</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_jid">Jabber Id</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_jid">This Jabber Id is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing Jid
+        completions."
+    </string>
+    <string name="user_example_com">user@example.com</string>
+    <string name="server_text">user@server.com</string>
+    <string name="last_message">This is the last message we exchanged that is sstored in the database...</string>
+    <string name="send_message">Send Message</string>
+    <string name="title_activity_contact_list">Choose Contact</string>
+    <string name="add_contact_label_text">Jabber Id</string>
+    <string name="add_contact_confirm_text">OK</string>
+    <string name="add_contact_cancel_text">Cancel</string>
+    <string name="me">Me</string>
+    <string name="title_me_activity">Me</string>
+    <string name="ignore_bat_allow">Allow</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="delete_chat">Delete Chat</string>
+    <string name="delete_message">Delete Message</string>
+    <string name="contact_details_chat_view">Contact Details</string>
+    <string name="send_image">Send Image</string>
+    <string name="receive_video">Receive Video</string>
+    <string name="send_office">Send Office</string>
+    <string name="send_file">Send File</string>
+    <string name="content_description">Attaching Document</string>
+    <string name="menu_document">Document</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_audio">Audio</string>
+    <string name="menu_location">Location</string>
+    <string name="menu_contact">Contact</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/contact_details_chat_view"
+    android:title="@string/contact_details_chat_view"
+    />
+
+    <item
+        android:id="@+id/send_file"
+        android:title="@string/send_file"
+        />
+
+    <item
+        android:id="@+id/send_image"
+        android:title="@string/send_image"
+        />
+    <item
+        android:id="@+id/receive_video"
+        android:title="@string/receive_video"
+        />
+    <item
+        android:id="@+id/send_office"
+        android:title="@string/send_office"
+        />
+</menu>
